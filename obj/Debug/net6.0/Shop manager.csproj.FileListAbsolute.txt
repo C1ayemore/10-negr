@@ -1,0 +1,38 @@
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Shop manager.exe
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Shop manager.deps.json
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Shop manager.runtimeconfig.json
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Shop manager.dll
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Shop manager.pdb
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Code\C#\Shop manager\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.csproj.AssemblyReference.cache
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.AssemblyInfoInputs.cache
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.AssemblyInfo.cs
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.csproj.CoreCompileInputs.cache
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.csproj.CopyComplete
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.dll
+D:\Code\C#\Shop manager\obj\Debug\net6.0\refint\Shop manager.dll
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.pdb
+D:\Code\C#\Shop manager\obj\Debug\net6.0\Shop manager.genruntimeconfig.cache
+D:\Code\C#\Shop manager\obj\Debug\net6.0\ref\Shop manager.dll
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Shop manager.exe
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Shop manager.deps.json
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Shop manager.runtimeconfig.json
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Shop manager.dll
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Shop manager.pdb
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\c1aye\source\repos\prack10-main\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.csproj.AssemblyReference.cache
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.AssemblyInfoInputs.cache
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.AssemblyInfo.cs
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.csproj.CoreCompileInputs.cache
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.csproj.CopyComplete
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.dll
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\refint\Shop manager.dll
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.pdb
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\Shop manager.genruntimeconfig.cache
+C:\Users\c1aye\source\repos\prack10-main\obj\Debug\net6.0\ref\Shop manager.dll

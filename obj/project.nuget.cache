@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "COzprxajmGzTemXBFqaeTeEsBECGuLXoev+GHKgH6eM/URRuffp06qDBcFp1JxkfIHYRElLCmrZ6cW2a5N5WWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c1aye\\source\\repos\\prack10-main\\Shop manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c1aye\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\c1aye\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\c1aye\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
